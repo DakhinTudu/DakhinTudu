@@ -1,29 +1,114 @@
-# 💫 Hi 👋, I'm **Daxin Tudu**  
-*Java Spring Boot Developer | Backend Engineer from India*  
+# Hi 👋, I'm Daxin Tudu  
+### Java Spring Boot Backend Engineer | Microservices Enthusiast | Building Scalable Systems  
 
-📧 **Email:** [dtudu195@gmail.com](mailto:dtudu195@gmail.com)  
-📍 **Location:** Bhubaneswar, India  
+📧 Email: dtudu195@gmail.com  
+📱 Phone: +91 9777170474  
+📍 Location: Bhubaneswar, India  
+🌐 Portfolio: https://portfolio-daxin.netlify.app/  
 
 ---
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">  
 
-### 👨‍💻 About Me  
-I’m a passionate **Java Spring Boot Developer** with hands-on experience in building **RESTful APIs, microservices**, and scalable backend architectures. I enjoy solving complex technical challenges, optimizing system performance, and developing secure, maintainable, and production-grade applications.
+## 👨‍💻 About Me  
 
-- 🔭 **Currently working on:** Litigation Management System (Microservices-based)  
-- 🌱 **Currently learning:** Spring Cloud, Redis, and Advanced Microservices Design  
-- 👯 **Looking to collaborate on:** Java Spring Boot & Full Stack Projects  
-- 💬 **Ask me about:** Spring Boot, REST APIs, Microservices, and Backend Architecture  
-- ⚡ **Fun fact:** I believe clean code is as satisfying as a good cup of coffee ☕  
-- 😄 **Pronouns:** He/Him  
+Backend-focused Java Spring Boot Developer with hands-on experience in building production-grade REST APIs and microservice-based systems.
+
+Currently working on a real-world Litigation Management System supporting 500+ concurrent users across multiple modules.
+
+I enjoy:
+- Designing scalable backend architectures  
+- Optimizing database and caching strategies  
+- Implementing secure authentication systems  
+- Writing clean, maintainable production code  
+
+---
+
+## 🔥 What I'm Working On  
+
+- Microservices-based Litigation Management System  
+- Redis performance optimization & caching strategies  
+- Secure RBAC + JWT authentication models  
+- Spring Cloud (Eureka, Gateway, Circuit Breaker patterns)  
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakhin-tudu-b3550821b/)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DakhinTudu)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dtudu195@gmail.com)  
+## 🔥 What I'm Working On  
+
+- Microservices-based Litigation Management System  
+- Redis performance optimization & caching strategies  
+- Secure RBAC + JWT authentication models  
+- Spring Cloud (Eureka, Gateway, Circuit Breaker patterns)  
 
 ---
+
+# 💼 Professional Experience  
+
+## Java Spring Boot Developer Trainee  
+**Tatwa Technologies – Bhubaneswar**  
+*December 2024 – Present*  
+
+- Engineered modular microservices architecture using Spring Boot & PostgreSQL, supporting 500+ concurrent users  
+- Built and executed ETL pipeline migrating 100,000+ legacy records with 99.9% accuracy  
+- Optimized Redis caching achieving sub-100ms API response time  
+- Reduced database load by 50%  
+- Implemented Spring Security + JWT + RBAC for 6+ roles  
+- Integrated Eureka Server & Spring Cloud Gateway  
+- Improved PostgreSQL query performance by 35%  
+
+---
+
+## Java Spring Boot Developer Intern  
+**Tatwa Technologies – Bhubaneswar**  
+*Sept 2024 – Dec 2024*  
+
+- Migrated legacy monolith to Spring Boot architecture  
+- Designed secure RESTful APIs with validation & exception handling  
+- Implemented Redis caching reducing DB calls by 30%  
+
+---
+
+## Java Full Stack Developer Intern (Course)  
+**QSpiders**  
+*Jan 2024 – Sept 2024*  
+
+- 9-month intensive training in Java, Spring Boot, Hibernate, MySQL  
+- Built 5+ MVC applications with authentication & CRUD  
+
+---
+
+
+# 🚀 Key Projects  
+
+## 🧠 Mini-Redis – Production-Grade In-Memory Cache  
+
+Custom Java-based in-memory key-value store.
+
+- Supports SET / GET / DELETE  
+- TTL-based expiration  
+- Background cleanup mechanism  
+- Thread-safe concurrent design  
+- Integrated into Spring Boot app improving API speed by 30–50%  
+
+GitHub:  https://github.com/DakhinTudu/mini-redis  
+
+---
+
+## 💊 Smart Medicine Inventory Management System  
+
+Multi-store enterprise inventory platform built with Spring Boot.
+
+- Multi-store architecture  
+- Role-based access (Admin, Manager, Pharmacist, Staff)  
+- JWT Authentication + RBAC  
+- Store-level data isolation  
+- REST APIs for inventory, suppliers, sales & users  
+- Centralized exception handling & logging  
+
+GitHub:  https://github.com/DakhinTudu/SmartMedicineStoreInventory  
+
+---
+
 
 # 💻 Tech Stack  
 
@@ -52,20 +137,8 @@ I’m a passionate **Java Spring Boot Developer** with hands-on experience in bu
 
 
 ---
-
-## 🚀 Projects  
-
-**1️⃣ Employee Management System**  
-🔹 Developed using **Spring Boot**, **REST APIs**, and **MySQL**  
-🔹 Implemented **JWT authentication**, CRUD operations, and analytics dashboard  
-🔹 Enhanced backend performance and workflow efficiency  
-📂 [View Employee Management System Repo](https://github.com/DakhinTudu/Employee_Management_System_SpringBoot_Rest)  
-
-**2️⃣ Litigation Management System (Microservices)**  
-🔹 Designed a **microservices-based architecture** using Spring Boot & PostgreSQL  
-🔹 Integrated **Redis caching** for <100 ms response times  
-🔹 Implemented **JWT-based RBAC** and **Eureka Server** for service discovery  
-📂 [View Litigation Management System Repo](https://github.com/DakhinTudu/litigation-management-service-microservices-project)  
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakhin-tudu-b3550821b/)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DakhinTudu)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dtudu195@gmail.com)  
 
 ---
 
