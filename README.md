@@ -2,7 +2,6 @@
 ### Java Spring Boot Backend Engineer | Microservices Enthusiast | Building Scalable Systems  
 
 📧 Email: dtudu195@gmail.com  
-📱 Phone: +91 9777170474  
 📍 Location: Bhubaneswar, India  
 🌐 Portfolio: https://portfolio-daxin.netlify.app/  
 
