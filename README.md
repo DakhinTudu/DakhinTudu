@@ -45,7 +45,7 @@ I enjoy:
 
 ## Java Spring Boot Developer Trainee  
 **Tatwa Technologies – Bhubaneswar**  
-*December 2024 – Present*  
+*December 2025 – Present*  
 
 - Engineered modular microservices architecture using Spring Boot & PostgreSQL, supporting 500+ concurrent users  
 - Built and executed ETL pipeline migrating 100,000+ legacy records with 99.9% accuracy  
@@ -59,7 +59,7 @@ I enjoy:
 
 ## Java Spring Boot Developer Intern  
 **Tatwa Technologies – Bhubaneswar**  
-*Sept 2024 – Dec 2024*  
+*Sept 2025 – Dec 2025*  
 
 - Migrated legacy monolith to Spring Boot architecture  
 - Designed secure RESTful APIs with validation & exception handling  
@@ -69,7 +69,7 @@ I enjoy:
 
 ## Java Full Stack Developer Intern (Course)  
 **QSpiders**  
-*Jan 2024 – Sept 2024*  
+*Jan 2025 – Sept 2025*  
 
 - 9-month intensive training in Java, Spring Boot, Hibernate, MySQL  
 - Built 5+ MVC applications with authentication & CRUD  
