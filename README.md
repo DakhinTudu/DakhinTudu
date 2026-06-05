@@ -1,10 +1,11 @@
-# Hi 👋, I'm Dakhin Tudu  
-### Associate Java Backend Engineer | Distributed Systems & Microservices Architecture
+# Hi 👋, I'm Dakhin Tudu
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/dakhin-tudu-b3550821b/) [![GitHub](https://shields.io)](https://github.com/DakhinTudu) [![Email](https://shields.io)](mailto:dtudu195@gmail.com)  
+### Associate Java Backend Engineer | Spring Boot | Microservices | Distributed Systems
 
-📧 **Email:** dtudu195@gmail.com | 🌐 **Portfolio:** [portfolio-daxin.netlify.app](https://portfolio-daxin.netlify.app/) | 📍 **Location:** Open to Relocation (Bengaluru / Hyderabad)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dakhin%20Tudu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dakhin-tudu-b3550821b/)
+[![GitHub](https://img.shields.io/badge/GitHub-DakhinTudu-black?style=for-the-badge&logo=github)](https://github.com/DakhinTudu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=netlify)](https://portfolio-daxin.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dtudu195@gmail.com)
 ---
 
 <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">  
@@ -63,7 +64,7 @@ Multi-tenant storefront and inventory distribution software utilizing multi-laye
 # 💻 Tech Stack  
 
 **Languages:**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://shields.io) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **Backend & Frameworks:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -77,12 +78,19 @@ Multi-tenant storefront and inventory distribution software utilizing multi-laye
 ---
 
 # 📊 GitHub Analysis  
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DakhinTudu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=DakhinTudu&theme=dark&hide_border=false" width="48%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DakhinTudu&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakhinTudu&layout=compact&theme=tokyonight" />
 </p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakhinTudu&theme=dark&hide_border=false&layout=compact" width="60%"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=DakhinTudu&theme=tokyonight" />
+</p>
+
+# 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DakhinTudu&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
